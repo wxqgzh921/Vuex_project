@@ -19,3 +19,5 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### 该例子是官网的简单例子，通过点击，来控制count的加减。
